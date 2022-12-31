@@ -13,13 +13,13 @@ const SUCCESS = 'success';
 const ERROR = 'error';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBMipP4bfsJs_1U0gkDrzUq95FsE5qolg8",
-  authDomain: "default-272dd.firebaseapp.com",
-  databaseURL: "https://default-272dd-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "default-272dd",
-  storageBucket: "default-272dd.appspot.com",
-  messagingSenderId: "377857214855",
-  appId: "1:377857214855:web:adb9be033796ee2d15eb22"
+  apiKey: "-",
+  authDomain: "-",
+  databaseURL: "-",
+  projectId: "-",
+  storageBucket: "-",
+  messagingSenderId: "-",
+  appId: "-"
 };
 
 function createUser(email,password){
