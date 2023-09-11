@@ -7,13 +7,13 @@ import { v4 as uuidv4 } from 'uuid';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBOxOwHMQiiLcyZEYYFdn5V_yaaX_BgOZM",
-  authDomain: "auction-ffe0a.firebaseapp.com",
-  databaseURL: "https://auction-ffe0a.firebaseio.com",
-  projectId: "auction-ffe0a",
-  storageBucket: "auction-ffe0a.appspot.com",
-  messagingSenderId: "22647798987",
-  appId: "1:22647798987:web:8e2c7674da66bef5ad6f4e"
+  apiKey: "-",
+  authDomain: "-",
+  databaseURL: "-",
+  projectId: "-",
+  storageBucket: "-",
+  messagingSenderId: "-",
+  appId: "-"
 };
 
 // Initialize Firebase
